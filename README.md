@@ -6,7 +6,7 @@ Quick facts about me:
 - 🎓 Soon to be software engineering student.
 - 💾 Starting to learn Back-End in August.
 - 🏔️ Living in the beautiful north of Norway.
-- ⛷ I love skiing and hiking in the mountains.
+- ⛷ I love cross-country skiing and hiking in the mountains.
 - 🗺️ Born and raised in the small country of Luxembourg.
 - 🌍 I speak 🇬🇧🇩🇪🇫🇷🇱🇺🇳🇴🇵🇹
 
