@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**AlexBergDev/alexbergdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quick facts about me:
 
-Here are some ideas to get you started:
+- 💻 I'm a Front-End developer.
+- 🎓 Soon to be software engineering student.
+- 💾 Starting to learn Back-End in August.
+- 🏔️ Living in the beautiful north of Norway.
+- ⛷ I love skiing and hiking in the mountains.
+- 🗺️ Born and raised in the small country of Luxembourg.
+- 🌍 I speak 🇬🇧🇩🇪🇫🇷🇱🇺🇳🇴🇵🇹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to contact me for potential proposals, contributions or questions on my projects:
+<a href="mailto:=alex@alexdev.no?Subject=Hello" target="_top">alex@alexdev.no</a>
+<a href="">LinkedIn (Coming soon)</a>
