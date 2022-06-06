@@ -12,4 +12,3 @@ Quick facts about me:
 
 Feel free to contact me for potential proposals, contributions or questions on my projects:
 <a href="mailto:=alex@alexdev.no?Subject=Hello" target="_top">alex@alexdev.no</a>
-<a href="">LinkedIn (Coming soon)</a>
