@@ -11,4 +11,4 @@ Quick facts about me:
 - 🌍 I speak 🇬🇧🇩🇪🇫🇷🇱🇺🇳🇴🇵🇹
 
 Feel free to contact me for potential proposals, contributions or questions on my projects:
-<a href="mailto:=alex@alexdev.no?Subject=Hello" target="_top">alex@alexdev.no</a>
+<a href="mailto:=alex@alexdev.no" target="_top">alex@alexdev.no</a>
