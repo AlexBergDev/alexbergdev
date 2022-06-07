@@ -1,5 +1,4 @@
-# Welcome, I'm Alex 👋
- <h1>Welcome, I'm <a href="https://alexdev.no">Alex</a></h1>
+<h1>Welcome, I'm <a href="https://alexdev.no">Alex</a> 👋</h1>
 
 Quick facts about me:
 
