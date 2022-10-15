@@ -3,8 +3,7 @@
 Quick facts about me:
 
 - 💻 I'm a Front-End developer.
-- 🎓 Soon to be software engineering student.
-- 💾 Starting to learn Back-End in August.
+- 🎓 Student at Noroff.
 - 🏔️ Living in the beautiful north of Norway.
 - ⛷ I love cross-country skiing and hiking in the mountains.
 - 🗺️ Born and raised in the small country of Luxembourg.
