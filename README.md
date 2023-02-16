@@ -2,7 +2,7 @@
 
 Quick facts about me:
 
-- 💻 I'm a Front-End developer.
+- 💻 Aspiring Full Stack developer.
 - 🎓 Student at Noroff.
 - 🏔️ Living in the beautiful north of Norway.
 - ⛷ I love cross-country skiing and hiking in the mountains.
